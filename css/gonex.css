@@ -359,7 +359,7 @@ header nav .ic:hover {
 /* End Services */
 /* Start Design */
 .design {
-    background-image: url(/imges/Design_background.png);
+    background-image: url(../imges/design_background.png);
     background-size: cover;
     height: 650px;
     display: flex;
@@ -501,7 +501,7 @@ header nav .ic:hover {
 .about {
     text-align: center;
     padding-top: 100px;
-    background-image: url(/imges/about_us_bg.jpg);
+    background-image: url(../imges/about_us_bg.jpg);
     background-size: cover;
     height: 660px;
     background-position: center;
